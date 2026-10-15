@@ -3,7 +3,7 @@
 Bem-vindo a página do github do Ruben Duarte também conhecido por Benny Duarte.
 
 <div>
-	## Conhecimentos
+	<h2> Conhecimentos</h2>
 	<ul>
 		<li>HTML</li>
 		<li>CSS</li>
