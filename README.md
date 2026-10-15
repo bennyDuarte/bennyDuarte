@@ -24,3 +24,8 @@ Tenho gosto em desenvolver.
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+
+### Estatisticas
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bennyDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyDuarte&layout=compact&theme=tokyonight%22/>
