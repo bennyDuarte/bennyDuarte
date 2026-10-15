@@ -4,25 +4,19 @@ Bem-vindo ao perfil do Ruben Duarte.
 
 ## Já desenvolvi projetos em:
 
-<div>
-	<ul>
-		<li>HTML</li>
-		<li>CSS</li>
-		<li>PHP</li>
-		<li>SQL</li>
-	</ul>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL / MySQL" />
+</p>
 
 ## Quero desenvolver com uso de:
 
-<div>
-	<ul>
-		<li>C</li>
-		<li>C#</li>
-		<li>C++</li>
-		<li>Rust</li>
-		<li>Python</li>
-	</ul>
-</div>
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
