@@ -26,7 +26,8 @@ Tenho gosto em desenvolver.
 </p>
 
 ### Estatisticas
+
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bennyDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyDuarte&layout=compact&theme=tokyonight%22/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bennyDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyDuarte&layout=compact&theme=tokyonight%22"/>
 </p>
