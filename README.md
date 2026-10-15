@@ -6,7 +6,7 @@ Tenho gosto em desenvolver.
 
 ## 🛠️ Know-how
 
-### Já desenvolvi projetos em:
+### ⚙️Já desenvolvi projetos em:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -15,7 +15,7 @@ Tenho gosto em desenvolver.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL / MySQL" />
 </p>
 
-### Quero desenvolver com uso de:
+### 📖Quero desenvolver com uso de:
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
